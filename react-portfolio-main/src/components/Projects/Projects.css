@@ -1,0 +1,34 @@
+.internship-box {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 8px 8px rgba(125, 122, 122, 0.1);
+  border: 1px solid #000;
+}
+
+.internship-image {
+  max-width: 120%; /* Ensure the image does not exceed its container width */
+  height: 85%;
+  border-radius: 20px; /* Adjust as needed */
+}
+
+.internship-description {
+  padding: 18px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.internship-description li {
+  position: relative; /* Ensure position context for pseudo-elements */
+  list-style: none; /* Remove default list styles */
+  margin-bottom: 10px; /* Adjust spacing between points */
+}
+
+.internship-description li:before {
+  content: "\21AA"; /* Unicode for right arrow */
+  position: absolute;
+  left: -20px; /* Adjust position of arrow */
+  top: 0;
+  color: #080e12; /* Adjust arrow color */
+}
