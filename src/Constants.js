@@ -35,12 +35,14 @@ export const SKILLS = [
   { name: "OOPS", initialRating: 5 },
   { name: "MySQL", initialRating: 5 },
   { name: "C/C++", initialRating: 5 },
-  { name: "ReactJs", initialRating: 4 },
-  { name: "Python", initialRating: 3.5 },
-  { name: "CSS", initialRating: 3 },
+  { name: "ReactJs", initialRating: 5 },
+  { name: "Python", initialRating: 4.5 },
+  { name: "CSS", initialRating: 4 },
   { name: "HTML", initialRating: 4 },
   { name: "Git", initialRating: 4 },
-  { name: "MongoDB", initialRating: 3 },
+  { name: "NodeJs", initialRating: 4 },
+  { name: "Django", initialRating: 4 },
+  { name: "MongoDB", initialRating: 3.5 },
 ];
 
-export const TOOLS = ["Visual Studio Code", "Git", "Chrome DevTools", "Npm (Node Package Manager)","Windows OS"]
+export const TOOLS = ["Visual Studio Code", "Git", "Chrome DevTools", "Npm (Node Package Manager)","Windows OS","Ubantu","MacOS"]
