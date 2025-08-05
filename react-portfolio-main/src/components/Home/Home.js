@@ -17,9 +17,10 @@ function Home() {
               </h6>
 
               <p className="heading-description blockquote">
-              Welcome! I’m Khatravat Goutham Rathod, a tech enthusiast and recent graduate with a B.Tech in Computer Science from IIEST
-               Shibpur. My journey is rooted in a passion for full stack development, and AI/ML, where I thrive on transforming ideas into practical solutions. 
-              Currently on the lookout for exciting full-time opportunities to leverage my skills and drive innovation in technology.
+              Welcome! I’m Khatravat Goutham Rathod, a passionate tech enthusiast and Associate Software Engineer at Forsys Software India Pvt Ltd.
+              With a B.Tech in Computer Science from IIEST Shibpur, I specialize in Full Stack Development and AI/ML, turning innovative ideas into impactful solutions.
+              I thrive on solving real-world challenges through technology, constantly learning, and building applications that make a difference. 
+              My journey is fueled by curiosity, creativity, and a drive to grow in the ever-evolving tech landscape.
               </p>
 
               <div className="heading-type">
