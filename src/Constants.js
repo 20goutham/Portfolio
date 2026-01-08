@@ -36,6 +36,7 @@ export const SKILLS = [
   { name: "MySQL", initialRating: 5 },
   { name: "C/C++", initialRating: 5 },
   { name: "ReactJs", initialRating: 5 },
+  { name: "Data Engineering", initialRating: 4.5 },
   { name: "Python", initialRating: 4.5 },
   { name: "CSS", initialRating: 4 },
   { name: "HTML", initialRating: 4 },
@@ -43,6 +44,7 @@ export const SKILLS = [
   { name: "NodeJs", initialRating: 4 },
   { name: "Django", initialRating: 4 },
   { name: "MongoDB", initialRating: 3.5 },
+  
 ];
 
-export const TOOLS = ["Visual Studio Code", "Git", "Chrome DevTools", "Npm (Node Package Manager)","Windows OS","Ubantu","MacOS"]
+export const TOOLS = ["Flodata","CRM","Visual Studio Code", "Git", "Chrome DevTools", "Npm (Node Package Manager)","Windows OS","Ubantu","MacOS"]
