@@ -17,7 +17,7 @@ function Home() {
               </h6>
 
               <p className="heading-description blockquote">
-                Welcome! I’m Khatravat Goutham Rathod, an Associate Software Engineer with a strong focus on AI-driven applications, data engineering, and backend development. I specialize in building scalable APIs, data pipelines, and AI-powered solutions that transform complex requirements into efficient, real-world systems. With hands-on experience across full-stack and data-centric technologies, I am passionate about leveraging AI, automation, and data to drive innovation and business impact.
+                Welcome!I’m Khatravat Goutham Rathod, an Associate Software Engineer with a strong focus on AI-driven applications, data engineering, and backend development. I specialize in building scalable APIs, data pipelines, and AI-powered solutions that transform complex requirements into efficient, real-world systems. With hands-on experience across full-stack and data-centric technologies, I am passionate about leveraging AI, automation, and data to drive innovation and business impact.
                             </p>
 
               <div className="heading-type">
