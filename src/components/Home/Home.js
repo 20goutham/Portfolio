@@ -17,9 +17,7 @@ function Home() {
               </h6>
 
               <p className="heading-description blockquote">
-              Welcome! I’m Khatravat Goutham Rathod, a tech enthusiast and recent graduate with a B.Tech in Computer Science from IIEST
-               Shibpur. My journey is rooted in a passion for full stack development, and AI/ML, where I thrive on transforming ideas into practical solutions. 
-              Currently on the lookout for exciting full-time opportunities to leverage my skills and drive innovation in technology.
+              Hi, I’m Khatravat Goutham Rathod — an Associate Software Engineer passionate about building scalable, user-focused products using full-stack development and AI/ML. I enjoy owning features end-to-end, turning ideas into production-ready solutions, and improving system performance through clean design and data-driven engineering. A Computer Science graduate from IIEST Shibpur with industry experience in backend and AI-powered systems,I’m looking for full-time opportunities where I can apply my skills, learn continuously, and deliver meaningful technical impact.
               </p>
 
               <div className="heading-type">
