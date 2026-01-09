@@ -15,6 +15,10 @@ function Projects() {
           My Recent <strong className="purple">Works </strong>
         </h1>
         
+        <h1 className="internships-heading" style={{ textAlign: "left", fontWeight: "bold", fontSize: "40px" }}>
+          Experience
+        </h1>
+
         {/* Internships Heading */}
         <h1 className="internships-heading" style={{ textAlign: "left", fontWeight: "bold", fontSize: "40px" }}>
           Internships
