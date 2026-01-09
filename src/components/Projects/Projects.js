@@ -5,7 +5,7 @@ import { PROJECTS } from "../../Constants";
 import streamlet from "../../Assets/Streamlet.png";
 import urlShortenerImage from "../../Assets/UrlShortener.png"; // Add your URL shortener image path
 import './Projects.css'; // Ensure you have a CSS file for custom styles
-import forsysImage from "../../Assets/Forsys.png";
+
 
 function Projects() {
   return (
