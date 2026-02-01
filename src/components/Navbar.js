@@ -3,6 +3,9 @@ import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import { Link } from "react-router-dom";
+import { AiOutlineUser, AiOutlineHome } from "react-icons/ai";
+import { MdWorkOutline } from "react-icons/md";
+
 import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
@@ -53,12 +56,13 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/about"
+                to="/experience"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineUser style={{ marginBottom: "2px" }} /> Experience
-              </Nav.Link>
-            </Nav.Item>
+               <MdWorkOutline style={{ marginBottom: "2px" }} /> Experience
+                </Nav.Link>
+              </Nav.Item>
+
 
             <Nav.Item>
               <Nav.Link
