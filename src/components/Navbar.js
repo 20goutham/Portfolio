@@ -3,7 +3,6 @@ import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import { Link } from "react-router-dom";
-import { AiOutlineUser, AiOutlineHome } from "react-icons/ai";
 import { MdWorkOutline } from "react-icons/md";
 
 import {
