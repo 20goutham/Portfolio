@@ -1,20 +1,40 @@
 .experience-section {
-  padding: 70px 0;
+  padding: 80px 0;
 }
 
 .section-title {
   text-align: center;
-  font-size: 2rem;
-  margin-bottom: 40px;
+  font-size: 2.2rem;
+  margin-bottom: 50px;
 }
 
-.experience-card {
-  max-width: 900px;
+.experience-container {
+  max-width: 1100px;
   margin: auto;
-  padding: 30px;
-  background: #1c1c1c;
-  border-radius: 12px;
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+  display: flex;
+  gap: 40px;
+  padding: 40px;
+  background: #ffffff;
+  border-radius: 14px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* Left logo */
+.experience-logo {
+  flex: 0 0 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.experience-logo img {
+  max-width: 180px;
+  object-fit: contain;
+}
+
+/* Right content */
+.experience-content {
+  flex: 1;
 }
 
 .experience-header {
@@ -25,21 +45,22 @@
 }
 
 .experience-header h3 {
+  font-size: 1.4rem;
   margin-bottom: 5px;
 }
 
-.experience-duration {
+.experience-header span {
   font-size: 0.9rem;
-  color: #aaa;
+  color: #666;
 }
 
-.experience-company {
+.experience-content h4 {
   margin: 10px 0 20px;
   font-weight: 500;
-  color: #cfcfcf;
+  color: #333;
 }
 
-.experience-points li {
-  margin-bottom: 10px;
-  line-height: 1.6;
+.experience-content ul li {
+  margin-bottom: 12px;
+  line-height: 1.7;
 }
